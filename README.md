@@ -24,7 +24,7 @@ Passionate about creating engaging and responsive web applications. Constantly l
 
 ### 🤝 Let's Connect
 
-- [LinkedIn] (Add your LinkedIn profile link)
+- [LinkedIn] (https://www.linkedin.com/in/prince-baghel-266b76204/)
 - [Portfolio] (Add your portfolio website if you have one)
 
 ---
