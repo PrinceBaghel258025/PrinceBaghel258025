@@ -12,23 +12,19 @@ Passionate about creating engaging and responsive web applications. Constantly l
 - **Databases:** MongoDB, PostgreSQL, MySQL, SQLite
 - **Tools & Others:** Git, Webpack, Babel, GraphQL, REST APIs, Figma
 
-### 🌟 Featured Projects
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=PrinceBaghel258025&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-[You can add 2-3 of your best projects here with brief descriptions and links]
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 📊 GitHub Stats
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=PrinceBaghel258025&limit=5&theme=chalk&combine_all_yearly_contributions=true)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=princebaghel258025&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=princebaghel258025&show_icons=true&locale=en" alt="GitHub Stats" />
-
-### 🤝 Let's Connect
-
-- [LinkedIn] (https://www.linkedin.com/in/prince-baghel-266b76204/)
-- [Portfolio] (Add your portfolio website if you have one)
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
+[![](https://visitcount.itsvg.in/api?id=PrinceBaghel258025&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=princebaghel258025&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
