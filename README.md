@@ -1,6 +1,6 @@
 # Prince Baghel
 
-## Frontend Developer | India
+## Software Developer | India
 
 Passionate about creating engaging and responsive web applications. Constantly learning and exploring new technologies to enhance user experiences.
 
